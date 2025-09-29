@@ -1,0 +1,6 @@
+untuk memahami cabang git, diperlukan:
+1. proses branching
+2. proses commit
+3. proses merge
+4. proses pull
+5. proses conflict
