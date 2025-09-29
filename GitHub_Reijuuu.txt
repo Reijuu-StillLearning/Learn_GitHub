@@ -3,3 +3,5 @@ untuk belajar github, kita harus mengetahui beberapa terminologi berikut:
 -commit
 -branch
 -merge
+-clone
+-conflict
