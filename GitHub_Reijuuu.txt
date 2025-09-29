@@ -4,4 +4,5 @@ untuk belajar github, kita harus mengetahui beberapa terminologi berikut:
 -branch
 -merge
 -clone
--conflict
+-push
+-pull
